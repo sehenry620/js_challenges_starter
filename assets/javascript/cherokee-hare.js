@@ -1,10 +1,11 @@
 (function(){
 
-    let startingPopulation = 500;
-    let birthRate = 0.2;
-    let numberOfWeeks = 6;
+    var startingPopulation = 200;
+    var birthRate = 0.1;
+    var numberOfWeeks = 3;
 
-    
+
+    console.log(startingPopulation * (1 + birthRate) ** numberOfWeeks)
 
     
 

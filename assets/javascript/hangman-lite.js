@@ -8,7 +8,7 @@
 
     let result = word.indexOf(letter);
     
-    // console.log(result);
+    console.log(result);
 
     if(result == -1){
         console.log("No, that letter does not exist");

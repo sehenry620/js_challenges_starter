@@ -19,6 +19,6 @@
     {
         console.log("That word is a palindrome")
         
-    }else(word != wordJoin)
+    }else
         console.log("That word is not a palindrome")
 })();
